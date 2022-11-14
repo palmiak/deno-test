@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "deno-bin": "^1.28.0"
+  },
+  "scripts": {
+    "start": "deno run index.ts"
+  }
+}
