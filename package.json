@@ -1,4 +1,5 @@
 {
+  "name": "Deno",
   "devDependencies": {
     "deno-bin": "^1.28.0"
   },
