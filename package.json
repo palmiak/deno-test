@@ -4,6 +4,7 @@
     "deno-bin": "^1.28.0"
   },
   "scripts": {
-    "start": "deno run index.ts"
+    "start": "deno run --allow-net=:${PORT} index.ts --port=${PORT}
+    "
   }
 }
